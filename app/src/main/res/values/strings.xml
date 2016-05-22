@@ -1,6 +1,29 @@
 <resources>
     <string name="app_name">Street Watcher Alpha</string>
+    <string name="title_activity_status">Activation</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_setup">Setup</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="device_id">DEVICE ID</string>
+
+    <!--APP text-->
+    <string name="username">DOMAIN.com</string>
+    <string name="password">AUTHENTICATION</string>
+    <string name="request_id">REQUEST ID</string>
+    <string name="request_location">GET LOCATION</string>
+    <string name="address">ADDRESS</string>
+    <string name="coordinate">COORDINATE</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="activate">ACTIVATE</string>
+    <string name="deactivate">DEACTIVATE</string>
+    <string name="status">STATUS</string>
+    <string name="status_active">ACTIVE</string>
+    <string name="status_nonactive">NONACTIVE</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--<string name="title_activity_maps">Map</string>-->
 </resources>
